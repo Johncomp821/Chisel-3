@@ -1596,6 +1596,16 @@ tile.laboratory.15.desc=Information Console
 #JackOLantern
 tile.litpumpkin.0.desc=:p
 tile.litpumpkin.1.desc=Derp
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
+tile.litpumpkin.1.desc=
 
 # Creative Tab localizations
 itemGroup.tabOtherChiselBlocks=Other Chisel Blocks
